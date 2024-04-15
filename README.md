@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋 I'm Zijie Jiang
 
-<!--
-**Jwindler/Jwindler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### M.S. of genomics in [Southwest](http://admissions.swu.edu.cn/) now.
 
-Here are some ideas to get you started:
+### Ph.D. Candidate in [SJTU](https://en.sjtu.edu.cn/) University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- I’m currently learning Python/Deep Learning/Rust/...
+- Research Interest:
+    + Bioinformatic tools development 
+    + 3D-Genome
+    + Genome Assembly
+
+
+
+![Jwindler's Stats](https://github-readme-stats.vercel.app/api?username=Jwindler&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+![Jwindler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwindler&theme=default&show_icons=true&hide_border=true&layout=compact)
