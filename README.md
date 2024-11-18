@@ -7,9 +7,9 @@
 
 - I’m currently learning Python/Deep Learning/Rust/...
 - Research Interest:
-    + Bioinformatic tools development ([AutoHiC](https://github.com/Jwindler/AutoHiC))
-    + 3D-Genome 
-    + Genome Assembly ([Assembly tools](https://github.com/Jwindler/Assembly_tools))
+    + Bioinformatic tools development : [AutoHiC](https://github.com/Jwindler/AutoHiC)
+    + 3D-Genome : [PlotHiC](https://github.com/Jwindler/PlotHiC)
+    + Genome Assembly : [Assembly tools](https://github.com/Jwindler/Assembly_tools)
 
 
 
