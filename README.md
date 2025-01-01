@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Zijie Jiang
 
-### M.S. of genomics in [Southwest](http://admissions.swu.edu.cn/).
-
-### Ph.D. Candidate in [SJTU](https://en.sjtu.edu.cn/) University now.
+### Ph.D. Candidate in [SJTU](https://en.sjtu.edu.cn/) University.
 
 
 - I’m currently learning Python/Deep Learning/Rust/...
